@@ -1,4 +1,4 @@
 interface:
   display_name: "洗稿"
-  short_description: "保留核心与锚点含义，重写文案；图片完整临摹，在锚点处替换主体背景"
-  default_prompt: "请用 $note-rewrite 根据这篇参考笔记制作新版本，保留核心表达与关键锚点含义，重写文案；图片完全临摹原图，在关键锚点处修改替换主体和背景。"
+  short_description: "不同版本表现不同，核心内容完全相同；文案、主体背景、构图排版均可改"
+  default_prompt: "请用 $note-rewrite 根据这篇参考笔记制作两个新版本，核心内容完全相同，文案和图片表现不同；保留关键锚点，修改主体、背景、配色、构图和排版。"
