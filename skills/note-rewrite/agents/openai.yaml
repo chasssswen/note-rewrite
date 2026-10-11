@@ -1,0 +1,4 @@
+interface:
+  display_name: "洗稿"
+  short_description: "保留文章核心表达与关键锚点，重写文案、例子和图文呈现形式"
+  default_prompt: "请用 $note-rewrite 根据这篇参考笔记制作新版本，保留核心表达与关键锚点，重新组织文案和图文形式。"
